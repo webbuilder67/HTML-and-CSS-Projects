@@ -1,0 +1,1 @@
+alert("Hello, Becca! I am a JavaScript alert box!");
